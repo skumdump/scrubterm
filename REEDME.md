@@ -1,6 +1,6 @@
 # scrubterm
 
-A simple Rust CLI tool to clear the terminal screen and scrollback buffer  
+A simple Rust CLI tool to clear the terminal screen and scrollback buffer.  
 Works on Linux terminals to completely clear the console.
 
 ## Features
@@ -16,3 +16,4 @@ After installing the binary (`scrubterm`), just run:
 
 ```bash
 scrubterm
+
