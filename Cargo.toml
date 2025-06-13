@@ -1,0 +1,11 @@
+[package]
+name = "scrubterm"
+version = "1.0.0"
+authors = ["Skum"]
+description = "Clear terminal screen and scrollback buffer"
+license = "MIT"
+repository = "https://github.com/YOUR_USERNAME/scrubterm"
+edition = "2021"
+readme = "README.md"
+keywords = ["terminal", "clear", "cli", "scrollback", "screen"]
+categories = ["command-line-utilities"]
